@@ -1,0 +1,15 @@
+C:\DEVELOPMENT\MpmProjectDotNet\bin\Debug\net8.0\MpmProjectDotNet.exe
+C:\DEVELOPMENT\MpmProjectDotNet\bin\Debug\net8.0\MpmProjectDotNet.deps.json
+C:\DEVELOPMENT\MpmProjectDotNet\bin\Debug\net8.0\MpmProjectDotNet.runtimeconfig.json
+C:\DEVELOPMENT\MpmProjectDotNet\bin\Debug\net8.0\MpmProjectDotNet.dll
+C:\DEVELOPMENT\MpmProjectDotNet\bin\Debug\net8.0\MpmProjectDotNet.pdb
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.AssemblyInfoInputs.cache
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.AssemblyInfo.cs
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.csproj.CoreCompileInputs.cache
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.dll
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\refint\MpmProjectDotNet.dll
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.pdb
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.genruntimeconfig.cache
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\ref\MpmProjectDotNet.dll
+C:\DEVELOPMENT\MpmProjectDotNet\obj\Debug\net8.0\MpmProjectDotNet.sourcelink.json
