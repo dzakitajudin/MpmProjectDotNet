@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MpmProjectDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddce3639eb925f3cb6d6d07585445d3a2bf25ea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb1d3649c03a59c5dcd3489be557d64982e435e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MpmProjectDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MpmProjectDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
