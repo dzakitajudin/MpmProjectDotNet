@@ -1,2 +1,2 @@
 # MpmProjectDotNet
-.NET application test with sonarCloud
+testing .NET application with sonarCloud
